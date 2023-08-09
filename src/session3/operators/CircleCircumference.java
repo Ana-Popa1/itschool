@@ -1,4 +1,4 @@
-package session3;
+package session3.operators;
 
 public class CircleCircumference {
     public static void main(String[] args) {
